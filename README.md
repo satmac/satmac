@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">🚀 Building</h1>
+<h1 align="center">🚀 Let's Build</h1>
 
 <p align="center">
-  <b>Computer Science • Cybersecurity • Finance</b><br/>
+  <b>Computer Science • Finance</b><br/>
   CompTIA PenTest+ Certified<br/>CompTIA SecurityX Certified<br/>
   Building secure, scalable, and financially intelligent systems
 </p>
@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 ## 🧠 Who I Am
 
 ```diff
-
 + Certified penetration tester with a systems mindset
 
 + Developer who understands financial systems
@@ -111,15 +110,15 @@ Automated vulnerability scanner
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satmac&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satmac&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🧠 Engineering Approach
 
-text Code is easy to write. Secure, scalable, and economically valuable systems are not. 
+Code is easy to write. Secure, scalable, and economically valuable systems are not. 
 
 I prioritise:
 - Security from the start  
@@ -145,5 +144,5 @@ I prioritise:
 ---
 
 <p align="center">
-  <i>Focused on building systems that are secure, scalable, and actually useful.</i>
-<
+  *Focused on building systems that are secure, scalable, and actually useful.*
+  </p>
