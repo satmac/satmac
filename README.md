@@ -141,5 +141,5 @@ I prioritise:
 ---
 
 <p align="center">
-  *Focused on building systems that are secure, scalable, and actually useful.*
+  <i>Focused on building systems that are secure, scalable, and actually useful.</i>
   </p>
