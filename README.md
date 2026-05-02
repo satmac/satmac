@@ -50,7 +50,7 @@ I design and build systems that are:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,react,docker,linux,postgres,git,aws" />
+  <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,docker,linux,postgres,aws,redhat,bash&perline=5" />
 </p>
 
 <details>
@@ -76,8 +76,8 @@ I design and build systems that are:
 
 </details>
 
+<!--
 ---
-
 ## 🚀 Selected Work
 
 ### 🔐 SecureBank API
@@ -103,7 +103,7 @@ Automated vulnerability scanner
 - Actionable reporting  
 
 ---
-
+-->
 ## 📊 GitHub Overview
 
 <p align="center">
