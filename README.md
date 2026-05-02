@@ -20,16 +20,11 @@ Here are some ideas to get you started:
 
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">🚀 We will Build for YOU</h1>
+<h1 align="center">🚀 Building</h1>
 
 <p align="center">
   <b>Computer Science • Cybersecurity • Finance</b><br/>
-  Building secure, scalable, and financially intelligent systems
-</p>
-
-<p align="center">
-  <b>Computer Science • Cybersecurity • Finance</b><br/>
-  CompTIA PenTest+ Certified • CompTIA SecurityX Certified<br/>
+  CompTIA PenTest+ Certified<br/>CompTIA SecurityX Certified<br/>
   Building secure, scalable, and financially intelligent systems
 </p>
 
@@ -42,7 +37,6 @@ Here are some ideas to get you started:
 
 ## 🧠 Who I Am
 
-diff + Engineer who thinks like an attacker + Developer who understands financial systems + Builder focused on real-world impact 
 ```diff
 
 + Certified penetration tester with a systems mindset
@@ -50,6 +44,7 @@ diff + Engineer who thinks like an attacker + Developer who understands financia
 + Developer who understands financial systems
 
 + Builder focused on real-world impact
+```
 
 I design and build systems that are:
 - 🔐 Secure by design (not patched later)
