@@ -1,5 +1,3 @@
-
-
 <!--
 **satmac/satmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,16 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!-- ================= HEADER ================= -->
-
+  <!-- ================= HEADER ================= -->
 <h1 align="center">🚀 Let's Build</h1>
 
 <p align="center">
   <b>Computer Science • Finance</b><br/>
   CompTIA PenTest+ Certified<br/>CompTIA SecurityX Certified<br/>
-  Building secure, scalable, and financially intelligent systems
+  Building secure, scalable, and intelligent systems
 </p>
 
 
@@ -59,6 +54,7 @@ I design and build systems that are:
 </p>
 
 <details>
+  
 <summary><b>🛡️ Cybersecurity</b></summary>
 
 - Penetration Testing (Web & Network)  
@@ -70,6 +66,7 @@ I design and build systems that are:
 </details>
 
 <details>
+  
 <summary><b>💰 Finance & Data</b></summary>
 
 - Quantitative Analysis  
@@ -110,8 +107,8 @@ Automated vulnerability scanner
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satmac&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satmac&hide_border=true" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=satmac&show_icons=true&hide_border=true" height="150"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satmac&hide_border=true" height="150"/>
 </p>
 
 ---
